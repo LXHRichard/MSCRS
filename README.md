@@ -4,7 +4,6 @@ MSCRS: A Multi-Sensor Dataset for Assessing MEMS LiDAR Sensing Capability in Com
 
 # Updates
 22 Aug 2026, this repo is opened. The full dataset will be released after the paper is accepted.
-Sample **data** is provided. (  ). 
 
 # Introduction
 We present the MSCRS dataset, a hardware-synchronized multi-sensor dataset acquired using a MEMS LiDAR (Livox Avia), industrial global-shutter cameras, an IMU, and a tightly-coupled INS. All sensors are hardware-synchronized via a 10 Hz trigger signal. The dataset covers nearly all road scenarios in China, including expressways, Class I–IV highways, bridges, tunnels, roundabouts, and urban roads, under diverse weather and seasonal conditions. It contains 32 sequences with a total trajectory of 128 km and a duration exceeding 2.47 hours, providing multimodal sensor data and high-precision ground-truth poses.
